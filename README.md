@@ -6,8 +6,7 @@
 
   <h2 align="center">Online_Voting_System</h2>
 
-  This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
+  This is a fully responsive website, <br />Responsive for all devices, build using PHP.
   <a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
