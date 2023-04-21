@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run this project you must have installed virtual server i.e XAMPP "https://www.apachefriends.org/download_success.html" on your pc (for Windows). Voting system in PHP is free to download with source code, Use for educational purposes only! 
+To run this project you must have installed virtual server i.e [XAMPP](https://www.apachefriends.org/download_success.html) on your pc (for Windows). Voting system in PHP is free to download with source code, Use for educational purposes only! 
 
 1st Step: Extract file
 
