@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run this project you must have installed virtual server i.e XAMPP on your pc (for Windows). Voting system in PHP is free to download with source code, Use for educational purposes only! 
+To run this project you must have installed virtual server i.e XAMPP "https://www.apachefriends.org/download_success.html" on your pc (for Windows). Voting system in PHP is free to download with source code, Use for educational purposes only! 
 
 1st Step: Extract file
 
@@ -39,7 +39,7 @@ Now Connecting Database
 
 6th Step: Create database naming “votesystem” and then click on import tab
 
-7th Step: Click on browse file and select “votesystem.sql” file which is inside “xampp/htdocs/database” folder
+7th Step: Click on browse file and select “votesystem.sql” file which is inside “xampp/htdocs/database(db)” folder
 
 8th Step: Click on go.
 
@@ -52,6 +52,7 @@ For Admin Panel
 Final Step: Go To URL “http://localhost/votesystem/admin/”
 
 Insert the username and password which is
+
 harie(username) & Admin@123(password)
 
 
