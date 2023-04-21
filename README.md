@@ -12,7 +12,6 @@
 
 </div>
 
-
 ### Demo Screeshots
 
 ![Portfolio Desktop Demo](aj.png "Desktop Demo")
